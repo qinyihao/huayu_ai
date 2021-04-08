@@ -1,3 +1,5 @@
+#!/usr/dev/env python3
+#coding utf-8
 n=int(input())
 while n!=1:
     if n%2==0:
